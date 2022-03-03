@@ -1,0 +1,22 @@
+.navbar-brand img {
+    max-width: 100px;
+    height: auto;
+}
+
+.collapse navbar-collapse {
+    text-align: right;
+}
+
+.carousel-item img {
+    height: 70vh;
+    width: 100%;
+}
+
+h5 {
+    color: darkgreen;
+}
+
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
